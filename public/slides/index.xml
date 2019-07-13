@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slides on My Personal Website</title>
+    <title>Slides on Muhsin Ciftci</title>
     <link>/slides/</link>
-    <description>Recent content in Slides on My Personal Website</description>
+    <description>Recent content in Slides on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
@@ -70,10 +70,6 @@ if porridge == &amp;quot;blueberry&amp;quot;:
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 
 &lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
 
 &lt;hr /&gt;
 
