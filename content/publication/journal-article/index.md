@@ -1,36 +1,33 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: As a small open economy, inflation is still largely driven by exchange rate developments in Turkey. Despite the fact that exchange rate pass-through (ERPT) to inflation has declined after the adoption of explicit inflation targeting in 2003, its contribution to the consumer prices and producer prices inflation is still prominent. Furthermore, recent studies show that inflation persistence appears to be another issue preventing from achieving price stability. This paper aims to explore the non-linear dynamics of ERPT and inflation persistence in the case of Turkey by employing Smooth Transition Regression (STR) models. The main motivation of this study is to identify different regimes charactarized by the magnitude of exchange rate movements in which ERPT and persistence in inflation indicators differ. Estimation results for the period 2003-2017 shows that inflation persistence and ERPT for Consumer Price Index (CPI) is high in regime with a sizeable import price shock. Additionally, STR estimation results indicate that ERPT and import price pass-through to Producer Price Index (PPI) is more influential in high depreciation regime.
+
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+
+date: "2017-12-04T00:00:00Z"
 doi: ""
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+<!--image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'-->
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Asian Journal of Economic Modeling, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2017-12-04T00:00:00Z"
+
+<!--slides: example-->
+
+summary: This paper analysis exchange rate pass through in consumer and producer prices in Turkey, using Smooth Transition Regression (STR).
+  
 tags:
 - Source Themes
-title: An example journal article
+title: Nonlinear Dynamics in Exchange Rate Pass Through and Inflation Persistence The Case of Turkish Economy
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -38,12 +35,8 @@ url_source: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
