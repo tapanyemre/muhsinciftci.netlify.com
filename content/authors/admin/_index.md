@@ -38,6 +38,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/muhsinciftci
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/muhsinciftci
+#- icon: cv
+#  icon_pack: ai
+#  link: https://github.com/muhsinciftci
 superuser: true
 user_groups:
 - Researchers
