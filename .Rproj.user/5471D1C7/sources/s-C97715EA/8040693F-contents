@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume/Vitae"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,7 +27,7 @@ redirect_from:
 
 ## Personal
 * Citizenship :  Turkey
-* Languages :  Turkish (Native), English (Fluent), Spanish (Pre-Int)
+* Languages :  Turkish (Native), English (Fluent), Spanish (Pre-Int), German (Basic)
 
 ## Computer Skills
 * Julia, R, Matlab/Dynare, Stata, Eviews, Gretl, $\LaTeX$ and some Python
