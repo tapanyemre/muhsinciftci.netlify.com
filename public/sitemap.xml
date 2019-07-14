@@ -106,7 +106,18 @@
   </url>
   
   <url>
+    <loc>/links/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/diccussionsandblogs/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -156,6 +167,10 @@
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/links/books/</loc>
   </url>
   
 </urlset>

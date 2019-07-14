@@ -7,18 +7,6 @@ redirect_from:
   - /links.html
 ---
 
-##### Discussion Platforms and Blogs 
+* [Discussion Platforms and Blogs](/links/Books)
 
-* [Economics for Inclusive Prosperity](https://econfip.org/) (*Policy Briefs from Prominent Economists*) 
-
-* [Project Syndicate](https://www.project-syndicate.org/section/economics) (*Renowned Columnists Reviewing Economics, Finance & Politics etc.*) 
-
-##### Recommended Books
-
-| Author   | Name   |
-| --------   | ------ |
-|   Umberto Eco | The Name of the Rose |
-|   Tim Harford | The Undercover Economist |
-|   F. Von Hayek  | The Road to Serfdom   |
-|   Robert Shiller  | Finance and the Good Society   |
-|   Thaler & Sunstein | Nudge   |
+* [Recommended Books](/links/DiccussionsandBlogs)
