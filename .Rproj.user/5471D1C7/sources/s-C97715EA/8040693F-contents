@@ -35,6 +35,6 @@ redirect_from:
 ----
 
 {{% alert note %}}
-Click [HERE](https://github.com/muhsinciftci/myhugosite.github.io/blob/master/content/files/cv.pdf) to download `PDF` version of my resume.
+Click [HERE](/cv/cv.pdf) to download `PDF` version of my resume.
 {{% /alert %}}
 
