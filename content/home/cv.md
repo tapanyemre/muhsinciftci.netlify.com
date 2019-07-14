@@ -34,4 +34,7 @@ redirect_from:
 
 ----
 
+{{% alert note %}}
+Click [HERE]({{< ref "https://github.com/muhsinciftci/myhugosite.github.io/blob/master/content/files/cv.pdf" >}}) to download `PDF` version.
+{{% /alert %}}
 
