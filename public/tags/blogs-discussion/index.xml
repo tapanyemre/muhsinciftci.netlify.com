@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs, Discussion on Muhsin Ciftci</title>
+    <link>/tags/blogs-discussion/</link>
+    <description>Recent content in Blogs, Discussion on Muhsin Ciftci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/blogs-discussion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discussion Platforms and Blogs</title>
+      <link>/links/blogs/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/links/blogs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://econfip.org/&#34; target=&#34;_blank&#34;&gt;Economics for Inclusive Prosperity&lt;/a&gt; (&lt;em&gt;Policy Briefs from Prominent Economists&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.project-syndicate.org/section/economics&#34; target=&#34;_blank&#34;&gt;Project Syndicate&lt;/a&gt; (&lt;em&gt;Renowned Columnists Reviewing Economics, Finance &amp;amp; Politics etc.&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

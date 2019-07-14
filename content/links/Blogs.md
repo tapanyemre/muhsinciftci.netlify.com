@@ -17,16 +17,14 @@ image:
 #lastmod: "2019-04-17T00:00:00Z"
 projects: []
 #subtitle: ''
-summary: Recommended Books in different disciplines.
+summary: Discussion Platforms and Blogs.
 tags:
-- Books
-title: 'Recommended Books'
+- Blogs, Discussion
+title: 'Discussion Platforms and Blogs'
 ---
 
-| Author   | Name   |
-| --------   | ------ |
-|   Umberto Eco | The Name of the Rose |
-|   Tim Harford | The Undercover Economist |
-|   F. Von Hayek  | The Road to Serfdom   |
-|   Robert Shiller  | Finance and the Good Society   |
-|   Thaler & Sunstein | Nudge   |
+* [Economics for Inclusive Prosperity](https://econfip.org/) (*Policy Briefs from Prominent Economists*) 
+
+* [Project Syndicate](https://www.project-syndicate.org/section/economics) (*Renowned Columnists Reviewing Economics, Finance & Politics etc.*) 
+
+

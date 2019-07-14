@@ -7,6 +7,6 @@ redirect_from:
   - /links.html
 ---
 
-* [Discussion Platforms and Blogs](/links/Books)
+* [Discussion Platforms and Blogs](/links/Blogs)
 
-* [Recommended Books](/links/DiccussionsandBlogs)
+* [Recommended Books](/links/Books)

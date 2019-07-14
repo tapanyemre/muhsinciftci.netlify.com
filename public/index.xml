@@ -108,6 +108,64 @@
     </item>
     
     <item>
+      <title>Discussion Platforms and Blogs</title>
+      <link>/links/blogs/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/links/blogs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://econfip.org/&#34; target=&#34;_blank&#34;&gt;Economics for Inclusive Prosperity&lt;/a&gt; (&lt;em&gt;Policy Briefs from Prominent Economists&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.project-syndicate.org/section/economics&#34; target=&#34;_blank&#34;&gt;Project Syndicate&lt;/a&gt; (&lt;em&gt;Renowned Columnists Reviewing Economics, Finance &amp;amp; Politics etc.&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommended Books</title>
+      <link>/links/books/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/links/books/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Author&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Umberto Eco&lt;/td&gt;
+&lt;td&gt;The Name of the Rose&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Tim Harford&lt;/td&gt;
+&lt;td&gt;The Undercover Economist&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;F. Von Hayek&lt;/td&gt;
+&lt;td&gt;The Road to Serfdom&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Robert Shiller&lt;/td&gt;
+&lt;td&gt;Finance and the Good Society&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Thaler &amp;amp; Sunstein&lt;/td&gt;
+&lt;td&gt;Nudge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -398,54 +456,6 @@ plot(p1, p2, layout = (1,2))
     </item>
     
     <item>
-      <title>Recommended Books</title>
-      <link>/links/diccussionsandblogs/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/links/diccussionsandblogs/</guid>
-      <description>
-
-&lt;h5 id=&#34;recommended-books&#34;&gt;Recommended Books&lt;/h5&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Author&lt;/th&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Umberto Eco&lt;/td&gt;
-&lt;td&gt;The Name of the Rose&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Tim Harford&lt;/td&gt;
-&lt;td&gt;The Undercover Economist&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;F. Von Hayek&lt;/td&gt;
-&lt;td&gt;The Road to Serfdom&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Robert Shiller&lt;/td&gt;
-&lt;td&gt;Finance and the Good Society&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Thaler &amp;amp; Sunstein&lt;/td&gt;
-&lt;td&gt;Nudge&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -485,24 +495,6 @@ plot(p1, p2, layout = (1,2))
 &lt;p&gt;However, in all of these softwares we have an important problem: &lt;em&gt;Speed&lt;/em&gt;. Depending on your subject, speed may become an important factor for you analysis. For example, even though &lt;code&gt;Python&lt;/code&gt; is really usefull for data anaylsis and it has different scientific libraries, perhaps it is not as much fast as we want! At this point we meet the Big Boss: &lt;code&gt;Julia&lt;/code&gt;. &lt;a href=&#34;https://julialang.org/&#34;&gt;Julia&lt;/a&gt; language is developed by &lt;code&gt;MIT&lt;/code&gt;. Its syntax is very similar to that of &lt;code&gt;Matlab&lt;/code&gt; and &lt;code&gt;Python&lt;/code&gt; and it does not bring a big time cost if you want to learn. The beauty of &lt;code&gt;Julia&lt;/code&gt; is that it is very fast, because of its property called &lt;code&gt;Multiple Dispatch&lt;/code&gt;. It is almost as fast as &lt;code&gt;C&lt;/code&gt; and &lt;code&gt;Fortran&lt;/code&gt; with very clean syntax. That makes &lt;code&gt;Julia&lt;/code&gt; really fun to work with. For example, Federal Reserve Bank of NewYork has switched to &lt;code&gt;Julia&lt;/code&gt; for their DSGE models because of &lt;code&gt;Julia&lt;/code&gt;&#39;s speed (it is much faster than Matlab). These properties of new softwares are really killing &lt;code&gt;Matlab&lt;/code&gt;. Furthermore, &lt;code&gt;Julia&lt;/code&gt; also have different packages for data analysis and the &lt;code&gt;Julia&lt;/code&gt; community is really expanding too much fast.&lt;/p&gt;
 
 &lt;p&gt;All in all, the answer to the question that which software to use really depends on what you do. For those who wonder, &lt;code&gt;Julia&lt;/code&gt; is my favorite language and I really recommend to make an investment in &lt;code&gt;Julia&lt;/code&gt;. It is the future of scientific programming!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>/links/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/links/books/</guid>
-      <description>
-
-&lt;h5 id=&#34;discussion-platforms-and-blogs&#34;&gt;Discussion Platforms and Blogs&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://econfip.org/&#34; target=&#34;_blank&#34;&gt;Economics for Inclusive Prosperity&lt;/a&gt; (&lt;em&gt;Policy Briefs from Prominent Economists&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.project-syndicate.org/section/economics&#34; target=&#34;_blank&#34;&gt;Project Syndicate&lt;/a&gt; (&lt;em&gt;Renowned Columnists Reviewing Economics, Finance &amp;amp; Politics etc.&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
