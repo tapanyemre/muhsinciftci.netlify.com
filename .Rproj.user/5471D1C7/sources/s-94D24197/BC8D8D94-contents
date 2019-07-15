@@ -1,0 +1,37 @@
+---
+title: "Regression analysis in R"
+author:
+  name: Muhsin Ciftci
+  affiliation: Goethe University Frankfurt
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: 
+  html_document:
+    theme: flatly
+    highlight: haddock 
+    # code_folding: show
+    toc: no
+    toc_depth: 4
+    toc_float: yes
+    keep_md: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE, dpi=300)
+```
+
+
+```{r, message=FALSE, warning=FALSE, include=FALSE}
+library("htmltools")
+library("bsplus")
+```
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+bs_accordion(id = "bootstrap_types") %>%
+  
+  bs_set_opts(panel_type = "info", use_heading_link = TRUE) %>%
+  bs_append(title = "Non-Linear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy", content = "Muhsin Ciftci & Muhammed Hasan Yilmaz, 2018. Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy, Asian Journal of Economic Modelling, Asian Economic and Social Society, vol. 6(1), pages 8-20, March.") %>%
+  
+  bs_set_opts(panel_type = "warning", use_heading_link = TRUE) %>%
+  bs_append(title = "Market Structure and Exchange Rate Pass Through in Turkey: A Panel Data Approach", content = "Forthcoming!!!")
+```

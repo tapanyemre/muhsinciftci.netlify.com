@@ -361,6 +361,16 @@ if porridge == &amp;quot;blueberry&amp;quot;:
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nonlinear Dynamics in Exchange Rate Pass Through and Inflation Persistence The Case of Turkish Economy</title>
       <link>/publication/journal-article/2017-12-04-erpt/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
@@ -486,6 +496,36 @@ plot(p1, p2, layout = (1,2))
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regression analysis in R</title>
+      <link>/files/carusel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/files/carusel/</guid>
+      <description>
+
+
+&lt;div id=&#34;bootstrap_types&#34; class=&#34;panel-group&#34; role=&#34;tablist&#34; aria-multiselectable=&#34;true&#34;&gt;
+&lt;div class=&#34;panel panel-info&#34; id=&#34;bootstrap_types-0&#34;&gt;
+&lt;div id=&#34;bootstrap_types-0-heading&#34; class=&#34;panel-heading&#34; role=&#34;tab&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#bootstrap_types-0-collapse&#34; data-parent=&#34;#bootstrap_types&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;bootstrap_types-0-collapse&#34; style=&#34;cursor: pointer;&#34;&gt;
+&lt;h4 class=&#34;panel-title&#34;&gt;Non-Linear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div aria-labelledby=&#34;bootstrap_types-0-heading&#34; class=&#34;panel-collapse collapse in&#34; id=&#34;bootstrap_types-0-collapse&#34; role=&#34;tabpanel&#34;&gt;
+&lt;div class=&#34;panel-body&#34; style=&#34;&#34;&gt;Muhsin Ciftci &amp;amp; Muhammed Hasan Yilmaz, 2018. Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy, Asian Journal of Economic Modelling, Asian Economic and Social Society, vol. 6(1), pages 8-20, March.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;panel panel-warning&#34; id=&#34;bootstrap_types-1&#34;&gt;
+&lt;div id=&#34;bootstrap_types-1-heading&#34; class=&#34;panel-heading&#34; role=&#34;tab&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#bootstrap_types-1-collapse&#34; data-parent=&#34;#bootstrap_types&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;bootstrap_types-1-collapse&#34; style=&#34;cursor: pointer;&#34;&gt;
+&lt;h4 class=&#34;panel-title&#34;&gt;Market Structure and Exchange Rate Pass Through in Turkey: A Panel Data Approach&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bootstrap_types-1-collapse&#34; class=&#34;panel-collapse collapse&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;bootstrap_types-1-heading&#34;&gt;
+&lt;div class=&#34;panel-body&#34; style=&#34;&#34;&gt;Forthcoming!!!&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
