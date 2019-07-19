@@ -9,23 +9,39 @@
   weight = 1
 
 
-
-[[main]]
-  name = "Resume"
-  url = "#cv"
-  weight = 2
+#
+#[[main]]
+#  name = "Resume"
+#  url = "/cv/cv.pdf"
+#  weight = 2
 
   
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "/publication/"
   weight = 3
   
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Blog"
+  url = "/post/"
   weight = 4
+  
+[[main]]
+  name = "Links"
+  url = "#links"
+  weight = 5
+  
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
+  
+
+
+
+
 
 #[[main]]
 #  name = "Projects"
@@ -33,22 +49,14 @@
 #  weight = 30
 
 
-
 #[[main]]
 #  name = "Courses"
 #  url = "courses/"
 #  weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
   
   
-[[main]]
-  name = "Links"
-  url = "#links"
-  weight = 5
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

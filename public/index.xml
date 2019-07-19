@@ -500,31 +500,66 @@ plot(p1, p2, layout = (1,2))
     </item>
     
     <item>
-      <title>Regression analysis in R</title>
-      <link>/files/carusel/</link>
+      <title>Resume</title>
+      <link>/files/_cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/files/carusel/</guid>
+      <guid>/files/_cv/</guid>
       <description>
 
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 
-&lt;div id=&#34;bootstrap_types&#34; class=&#34;panel-group&#34; role=&#34;tablist&#34; aria-multiselectable=&#34;true&#34;&gt;
-&lt;div class=&#34;panel panel-info&#34; id=&#34;bootstrap_types-0&#34;&gt;
-&lt;div id=&#34;bootstrap_types-0-heading&#34; class=&#34;panel-heading&#34; role=&#34;tab&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#bootstrap_types-0-collapse&#34; data-parent=&#34;#bootstrap_types&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;bootstrap_types-0-collapse&#34; style=&#34;cursor: pointer;&#34;&gt;
-&lt;h4 class=&#34;panel-title&#34;&gt;Non-Linear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div aria-labelledby=&#34;bootstrap_types-0-heading&#34; class=&#34;panel-collapse collapse in&#34; id=&#34;bootstrap_types-0-collapse&#34; role=&#34;tabpanel&#34;&gt;
-&lt;div class=&#34;panel-body&#34; style=&#34;&#34;&gt;Muhsin Ciftci &amp;amp; Muhammed Hasan Yilmaz, 2018. Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy, Asian Journal of Economic Modelling, Asian Economic and Social Society, vol. 6(1), pages 8-20, March.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;panel panel-warning&#34; id=&#34;bootstrap_types-1&#34;&gt;
-&lt;div id=&#34;bootstrap_types-1-heading&#34; class=&#34;panel-heading&#34; role=&#34;tab&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#bootstrap_types-1-collapse&#34; data-parent=&#34;#bootstrap_types&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;bootstrap_types-1-collapse&#34; style=&#34;cursor: pointer;&#34;&gt;
-&lt;h4 class=&#34;panel-title&#34;&gt;Market Structure and Exchange Rate Pass Through in Turkey: A Panel Data Approach&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div id=&#34;bootstrap_types-1-collapse&#34; class=&#34;panel-collapse collapse&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;bootstrap_types-1-heading&#34;&gt;
-&lt;div class=&#34;panel-body&#34; style=&#34;&#34;&gt;Forthcoming!!!&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. Candidate in Economics, Goethe University Frankfurt, &lt;code&gt;2019 -&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;M.Sc. in Economics, Middle East Technical University, &lt;code&gt;2016-2018&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;B.A. in Economics, Bogazici University, &lt;code&gt;2010-2015&lt;/code&gt;
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;employment&#34;&gt;Employment&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Researcher at Central Bank of the Republic of Turkey, &lt;code&gt;2016-Present&lt;/code&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Research &amp;amp; Monetary Policy Department
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;fields-of-interest&#34;&gt;Fields of Interest&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Financial Economics, Applied Econometrics&lt;/li&gt;
+&lt;li&gt;Macroecnomics, Data Science&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nonlinear Dynamics in Exchange Rate Pass Through and Inflation Persistence: The Case of Turkish Economy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal&#34;&gt;Personal&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Citizenship :  Turkey&lt;/li&gt;
+&lt;li&gt;Languages :  Turkish (Native), English (Fluent), Spanish (Pre-Int), German (Basic)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;computer-skills&#34;&gt;Computer Skills&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Julia, R, Matlab/Dynare, Stata, Eviews, Gretl, $\LaTeX$ and some Python&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click &lt;a href=&#34;/cv/cv.pdf&#34;&gt;HERE&lt;/a&gt; to download &lt;code&gt;PDF&lt;/code&gt; version of my resume.
+  &lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
