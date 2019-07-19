@@ -29,7 +29,7 @@
   
 [[main]]
   name = "Links"
-  url = "#links"
+  url = "/links/"
   weight = 5
   
 

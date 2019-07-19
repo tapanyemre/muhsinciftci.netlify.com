@@ -19,6 +19,7 @@ image:
 #lastmod: "2019-04-17T00:00:00Z"
 projects: []
 #subtitle: ''
+summary: " "
 tags:
 - Softwares, Economics
 title: 'Computer Softwares for Economics'
