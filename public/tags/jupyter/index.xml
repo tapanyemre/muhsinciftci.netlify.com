@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jupyter on Muhsin Ciftci</title>
+    <link>/tags/jupyter/</link>
+    <description>Recent content in Jupyter on Muhsin Ciftci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Jupyter Notebook with Hugo</title>
+      <link>/post/2019-07-01-hugo/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-07-01-hugo/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using Plots
+gr()
+using PlotThemes
+theme(:ggplot2)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;x = 1:0.01:30
+y = sin.(x);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;plot(x,y)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;2019-07-01-Hugo_files/2019-07-01-Hugo_3_0.svg&#34; alt=&#34;svg&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

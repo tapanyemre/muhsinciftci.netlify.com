@@ -16,7 +16,6 @@ education:
     year: 2015
 email: "farmer.muhsin@gmail.com"
 interests:
-- Household Finance
 - Applied Econometrics
 - Macroeconomics
 - Data Science 
@@ -30,9 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ciftciphd
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tKNlSdIAAAAJ&hl=en
