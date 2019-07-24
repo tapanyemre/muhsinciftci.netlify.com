@@ -18,18 +18,18 @@
   
 [[main]]
   name = "Publications"
-  url = "/publication/"
+  url = "#publications"
   weight = 3
   
 
 [[main]]
   name = "Blog"
-  url = "/post/"
+  url = "#posts"
   weight = 4
   
 [[main]]
   name = "Links"
-  url = "/links/"
+  url = "#links"
   weight = 5
   
 
