@@ -26,17 +26,21 @@
   name = "Blog"
   url = "#posts"
   weight = 4
-  
-[[main]]
-  name = "Links"
-  url = "#links"
-  weight = 5
-  
+
 
 [[main]]
   name = "Contact"
   url = "#contact"
+  weight = 5
+
+  
+[[main]]
+  name = "Links"
+  url = "#links"
   weight = 6
+  
+
+
   
 
 
