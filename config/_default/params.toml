@@ -26,7 +26,7 @@ logo = ""
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-highlight = true
+highlight = false
 # highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
@@ -119,6 +119,8 @@ reading_time = true
 
 # Display comment count (if commenting enabled in config.toml)? (true/false)
 comment_count = true
+
+read_more = true
 
 # Display next/previous section pager? (true/false)
 section_pager = true

@@ -52,7 +52,7 @@ user_groups:
 
 I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie in the application of econometrics to finance and macroeconomics. I am also interested in analyzing large data in ways that affect the analysis and understanding in a better way.
 
-Prior to joining to Goethe University Frankfurt, I received Master of Science in Economics from [Middle East Technical University](https://metu.edu.tr/) and at the same time I worked as a researcher at the Central Bank of Turkey. I received a Bachelor of Arts in Economics from [Boğaziçi University](http://www.boun.edu.tr/en-US/Index). 
+Prior to joining to Goethe University Frankfurt, I received Master of Science in Economics from Middle East Technical University and at the same time I worked as a researcher at the Central Bank of Turkey. I received a Bachelor of Arts in Economics from Boğaziçi University. 
 
 
  
