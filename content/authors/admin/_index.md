@@ -10,7 +10,7 @@ education:
     year: 2019 - 
   - course: Master of Science in Economics
     institution: Middle East Technical University
-    year: 2018
+    year: 2019
   - course: Bachelor of  Economics
     institution: Bogazici University
     year: 2015
