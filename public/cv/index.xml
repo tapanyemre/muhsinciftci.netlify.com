@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on Muhsin Ciftci</title>
+    <link>/cv/</link>
+    <description>Recent content in Cvs on Muhsin Ciftci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/cv/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34; /&gt;
+    &lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+    &lt;meta name=&#34;generator&#34; content=&#34;pandoc&#34; /&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+
+    &lt;meta name=&#34;author&#34; content=&#34;Muhsin Ciftci&#34; /&gt;
+    &lt;meta name=&#34;date&#34; content=&#34;2019-10-01&#34; /&gt;
+    &lt;title&gt;Muhsin Ciftci’s Resume&lt;/title&gt;
+
+        &lt;link href=&#34;cv_files/font-awesome-5.1.0/css/all.css&#34; rel=&#34;stylesheet&#34; /&gt;
+    &lt;link href=&#34;cv_files/font-awesome-5.1.0/css/v4-shims.css&#34; rel=&#34;stylesheet&#34; /&gt;
+    &lt;link href=&#34;cv_files/paged-0.5/css/resume.css&#34; rel=&#34;stylesheet&#34; /&gt;
+    &lt;script src=&#34;cv_files/paged-0.5/js/config.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;cv_files/paged-0.5/js/paged.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;cv_files/paged-0.5/js/hooks.js&#34;&gt;&lt;/script&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+
+&lt;div id=&#34;aside&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Aside&lt;/h1&gt;
+&lt;div id=&#34;contact&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Contact Info&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:farmer.muhsin@gmail.com&#34; class=&#34;email&#34;&gt;farmer.muhsin@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/muhsinciftci&#34;&gt;github.com/muhsinciftci&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://muhsinciftci.netlify.com/&#34; class=&#34;uri&#34;&gt;https://muhsinciftci.netlify.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;skills&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;R packages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&#34;notemd-cran_status_badge&#34;&gt;noteMD: &lt;a href=&#34;https://cran.r-project.org/package=noteMD&#34;&gt;&lt;img src=&#34;http://www.r-pkg.org/badges/version/noteMD&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/jienagu/noteMD/master/noteMD_logo.png&#34; alt=&#34;noteMD&#34; style=&#34;width:70.0%&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Print text from shiny ui (support markdown syntax) to pdf or word report&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Repo: github.com/jienagu/noteMD&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h4 id=&#34;nivopie&#34;&gt;nivopie:&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/jienagu/nivopie/master/hex_nivopie.png&#34; alt=&#34;nivopie&#34; style=&#34;width:70.0%&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An html widget that creates interactive pie chart&lt;/li&gt;
+&lt;li&gt;Repo: github.com/jienagu/nivopie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;main&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Main&lt;/h1&gt;
+&lt;div id=&#34;title&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Muhsin Ciftci&lt;/h2&gt;
+&lt;!-- ### Professional Interests: --&gt;
+&lt;!-- - Shiny Education/ Consult: introduce a new educational flow from developers&#39; perspective. --&gt;
+&lt;!-- - Combine Shiny and Rmarkdown to create a dynamic reporting eco-system. --&gt;
+&lt;!-- - Hierarchies Design of Data Visualization for shiny similar with popular commercial BI software. --&gt;
+&lt;!-- - Build htmlwidgets and combine with the beauty of shiny. --&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;!-- Education {data-icon=graduation-cap data-concise=true} --&gt;&lt;/h2&gt;
+&lt;div id=&#34;goethe-university-frankfurt-school-of-economics&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Goethe University Frankfurt School of Economics&lt;/h3&gt;
+&lt;p&gt;Ph.D. in Economics&lt;/p&gt;
+&lt;p&gt;Frankfurt am Main, Germany&lt;/p&gt;
+&lt;p&gt;2019 - Present&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;middle-east-technical-university&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Middle East Technical University&lt;/h3&gt;
+&lt;p&gt;MSc. in Economics&lt;/p&gt;
+&lt;p&gt;Ankara, Turkey&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bogazici-university&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Boğaziçi University&lt;/h3&gt;
+&lt;p&gt;B.A. in Economics&lt;/p&gt;
+&lt;p&gt;Istanbul, Turkey&lt;/p&gt;
+&lt;p&gt;2015&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;professional-experience&#34; class=&#34;section level2&#34; data-icon=&#34;suitcase&#34;&gt;
+&lt;h2&gt;Professional Experience&lt;/h2&gt;
+&lt;div id=&#34;researcher&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Researcher&lt;/h3&gt;
+&lt;p&gt;Central Bank of the Republic of Turkey&lt;/p&gt;
+&lt;p&gt;Ankara, Turkey&lt;/p&gt;
+&lt;p&gt;2016 - 2019&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Short Term Inflation Forecasting&lt;/li&gt;
+&lt;li&gt;International Economic Growth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;intern&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Intern&lt;/h3&gt;
+&lt;p&gt;Capital Market Boards of Turkey&lt;/p&gt;
+&lt;p&gt;Istanbul, Turkey&lt;/p&gt;
+&lt;p&gt;2015 - 2015&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;graduate-teaching-assistant&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Graduate Teaching Assistant&lt;/h3&gt;
+&lt;p&gt;Department of Statistics at Kansas State University&lt;/p&gt;
+&lt;p&gt;Manhattan, KS&lt;/p&gt;
+&lt;p&gt;2014 - 2016&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Teach Stat 325 (Introduction to Statistics) course as the instructor.&lt;/li&gt;
+&lt;li&gt;Grade Assignments and exam.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;statistics-specialist&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Statistics Specialist&lt;/h3&gt;
+&lt;p&gt;Internatioanl Admission and Recruiting office at Kansas State University&lt;/p&gt;
+&lt;p&gt;Manhattan, KS&lt;/p&gt;
+&lt;p&gt;2015 - 2016&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build interactive dashboard (shiny) to visualize the admission data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-shiny-publications&#34; class=&#34;section level2&#34; data-icon=&#34;file&#34;&gt;
+&lt;h2&gt;R/ Shiny Publications&lt;/h2&gt;
+&lt;div id=&#34;building-an-interactive-tutorial-website-for-r-and-statistics&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Building an Interactive Tutorial Website for R and Statistics&lt;/h3&gt;
+&lt;p&gt;C2C Digital Magazine: Vol. 1 : Iss. 10 , Article 7.&lt;/p&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;p&gt;Jiena Gu McLellan&lt;/p&gt;
+&lt;div class=&#34;aside&#34;&gt;
+&lt;h3 id=&#34;skills-1&#34;&gt;Skills:&lt;/h3&gt;
+&lt;p&gt;R, Python, Shiny, html, Rcpp (C++), CSS&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;geographic-information-visualization-by-r&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Geographic Information Visualization by R&lt;/h3&gt;
+&lt;p&gt;C2C Digital Magazine: Vol. 1 : Iss. 8 , Article 4.&lt;/p&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;p&gt;Jiena Gu McLellan&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;sentiment-analysis-of-real-time-twitter-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Sentiment Analysis of Real-time Twitter Data&lt;/h3&gt;
+&lt;p&gt;C2C Digital Magazine: Vol. 1 : Iss. 7 , Article 8.&lt;/p&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;2017&lt;/p&gt;
+&lt;p&gt;Jiena Gu McLellan&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;shiny-app-an-efficient-and-creative-communicator-of-big-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Shiny App: An Efficient and Creative Communicator of Big Data&lt;/h3&gt;
+&lt;p&gt;C2C Digital Magazine: Vol. 1 : Iss. 6 , Article 6.&lt;/p&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;2016&lt;/p&gt;
+&lt;p&gt;Jiena Gu&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;peer-reviewed-publications-and-talks&#34; class=&#34;section level2&#34; data-icon=&#34;file&#34;&gt;
+&lt;h2&gt;Peer-Reviewed Publications and Talks&lt;/h2&gt;
+&lt;div id=&#34;learnr-interactive-r-tutorials&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;learnr: Interactive R tutorials&lt;/h3&gt;
+&lt;p&gt;TA for Yihui Xie (Instructor) at Advanced Rmarkdown Workshop at RStudio Conference 2019&lt;/p&gt;
+&lt;p&gt;Austin, TX&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;p&gt;Jiena Gu McLellan&lt;/p&gt;
+&lt;div class=&#34;aside&#34;&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages:&lt;/h3&gt;
+&lt;p&gt;English, Chinese&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;evaluation-of-three-classification-models-to-predict-risk-class-of-cattle-cohorts-developing-bovine-respiratory-disease-within-the-first-14-days-on-feed-using-on-arrival-andor-prearrival-information.&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Evaluation of three classification models to predict risk class of cattle cohorts developing bovine respiratory disease within the first 14 days on feed using on-arrival and/or prearrival information.&lt;/h3&gt;
+&lt;p&gt;Computers and Electronics in Agriculture. 156 (2019) 439-446.&lt;/p&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;p&gt;David E. Amrine, &lt;strong&gt;Jiena G. McLellan&lt;/strong&gt;, Brad J. White, Robert L. Larson, David G. Renter,
+Mike Sanderson.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;evaluation-of-animal-to-animal-and-community-contact-structures-determined-by-a-real-time-location-system-for-correlation-with-and-prediction-of-new-bovine-respiratory-disease-diagnoses-in-beef-cattle-during-the-first-28-days-after-feedlot-entry.&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Evaluation of animal-to-animal and community contact structures determined by a real-time location system for correlation with and prediction of new bovine respiratory disease diagnoses in beef cattle during the first 28 days after feedlot entry.&lt;/h3&gt;
+&lt;p&gt;American Journal of Veterinary Research [01 Dec 2018, 79(12):1277-1286]&lt;/p&gt;
+&lt;p&gt;Kansas, USA&lt;/p&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;p&gt;Shane DD, &lt;strong&gt;McLellan JG&lt;/strong&gt;, White BJ, Larson RL, Amrine DE, Sanderson MW, Apley MD.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-for-data-analytics-interactive-visualization&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;R for Data Analytics &amp;amp; Interactive Visualization&lt;/h3&gt;
+&lt;p&gt;Manhattan Data Analytics Meetup&lt;/p&gt;
+&lt;p&gt;Manhattan, KS&lt;/p&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;p&gt;Jiena Gu McLellan&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;personal-shiny-projects&#34; class=&#34;section level2&#34; data-icon=&#34;file&#34;&gt;
+&lt;h2&gt;Personal Shiny Projects&lt;/h2&gt;
+&lt;div id=&#34;dt-editor-dt-editor-shiny-module&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;DT Editor/ DT Editor Shiny Module&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Intro: DT Editor Shiny App that has (almost) all features of data table editor.&lt;/li&gt;
+&lt;li&gt;Shiny Module: &lt;a href=&#34;https://github.com/jienagu/DT_editor_shiny_module&#34; class=&#34;uri&#34;&gt;https://github.com/jienagu/DT_editor_shiny_module&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;Repo: &lt;a href=&#34;https://github.com/jienagu/DT-Editor&#34; class=&#34;uri&#34;&gt;https://github.com/jienagu/DT-Editor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;rpivottablemd&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;rpivotTableMD&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Intro: a shiny app demonstrates &lt;code&gt;rpivotTable&lt;/code&gt; dynamically interacting with Rmarkdown reports (pdf or word) from a shiny app platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;Repo: &lt;a href=&#34;https://github.com/jienagu/rpivotTableMD&#34; class=&#34;uri&#34;&gt;https://github.com/jienagu/rpivotTableMD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;d3-folded-charts&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;D3 folded charts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hierarchies Design of Data Visualization for shiny: Drilling down from graphs to table/graphs similar with Power BI; generate dynamic reports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;Repo: &lt;a href=&#34;https://github.com/jienagu/D3_folded_charts&#34; class=&#34;uri&#34;&gt;https://github.com/jienagu/D3_folded_charts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;shiny-template&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Shiny Template&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Intro: a shiny template is to mimic questions/survey type of UI design to bring the best user-experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;Repo: &lt;a href=&#34;https://github.com/jienagu/Shiny_Template&#34; class=&#34;uri&#34;&gt;https://github.com/jienagu/Shiny_Template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;playr-interacitve-tutorial-website&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;PlayR: Interacitve Tutorial Website&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Intro: an interactive tutorial website (PlayR) built by learnr package.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;Repo: &lt;a href=&#34;https://github.com/jienagu/Interactive_tutorial_website&#34; class=&#34;uri&#34;&gt;https://github.com/jienagu/Interactive_tutorial_website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;shiny-interactive-presentation&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Shiny Interactive Presentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Intro: Generating interactive presentation from shiny side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;Repo: &lt;a href=&#34;https://github.com/jienagu/Shiny_Interactive_Presentation&#34; class=&#34;uri&#34;&gt;https://github.com/jienagu/Shiny_Interactive_Presentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;grant-awards&#34; class=&#34;section level2&#34; data-icon=&#34;file&#34;&gt;
+&lt;h2&gt;Grant &amp;amp; Awards&lt;/h2&gt;
+&lt;div id=&#34;the-development-grant-for-mis665-through-k-state-global-campus&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;The Development Grant for MIS665 through K-State global campus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Intro: Develop MIS 665 Business Analytics and Data Mining course&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+&lt;p&gt;Fund: $3500&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;div class=&#34;aside&#34;&gt;
+&lt;p&gt;This resume was made with the R package &lt;a href=&#34;https://github.com/rstudio/pagedown&#34;&gt;&lt;strong&gt;pagedown&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Last updated on 2019-10-01.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+(function() {
+  var i, s, j, el, els;
+  var create_el = function(type, className, content, isHTML) {
+    var el = document.createElement(type);
+    if (className) el.className = className;
+    if (content) {
+      if (isHTML) {el.innerHTML = content;} else {el.innerText = content;}
+    }
+    return el;
+  }
+
+  // replace h2 title with h1
+  var title = document.getElementById(&#39;title&#39;).querySelector(&#39;h2&#39;);
+  title.parentNode.replaceChild(create_el(&#39;h1&#39;, false, title.innerHTML, true), title);
+
+  // add the class .aside to #aside
+  el = document.getElementById(&#39;aside&#39;);
+  if (el) el.className += &#39; aside&#39;;
+
+  // tweak class names of sections, and add icons
+  els = document.getElementById(&#39;main&#39;).querySelectorAll(&#39;.level2&#39;);
+  for (i = 0; i &lt; els.length; i++) {
+    el = els[i];
+    if (i === 0 &amp;&amp; el.id === &#39;title&#39;) continue;
+    el.className += &#39; main-block&#39;;
+    if (el.dataset[&#39;concise&#39;]) el.className += &#39; concise&#39;;
+    s = el.dataset[&#39;icon&#39;] || &#39;bookmark&#39;;
+    el.firstElementChild.insertBefore(create_el(&#39;i&#39;, &#39;fa fa-&#39; + s), el.firstElementChild.firstChild);
+  }
+
+  // tweak class names of blocks in sections
+  els = document.getElementById(&#39;main&#39;).querySelectorAll(&#39;.level3&#39;);
+  for (i = 0; i &lt; els.length; i++) {
+    el = els[i];
+    if (el.parentNode.id === &#39;title&#39;) continue;
+    el.className += &#39; blocks&#39;;
+    el.innerHTML = &#39;&lt;div class=&#34;date&#34;&gt;&lt;/div&gt;&#39; + &#39;&lt;div class=&#34;decorator&#34;&gt;&lt;/div&gt;&#39; +
+      &#39;&lt;div class=&#34;details&#34;&gt;&lt;header&gt;&lt;/header&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&#39; + el.innerHTML;
+    var ps = el.querySelectorAll(&#39;p&#39;);
+    // move the date paragraph to the date div
+    if (ps.length &gt;= 3) {
+      s = ps[2].innerText;
+      s = s === &#39;N/A&#39; ? [] : s.split(&#39; - &#39;);
+      el.removeChild(ps[2]);
+      for (j = 0; j &lt; s.length &amp;&amp; j &lt; 2; j++) {
+        el.children[0].appendChild(create_el(&#39;span&#39;, false, s[j]))
+      }
+    }
+    // move title, description, location to the details div
+    (function(h) {
+      h.appendChild(el.children[3]);
+      var p = el.children[3];  // description
+      if (p.innerText !== &#39;N/A&#39;) {
+        h.appendChild(create_el(&#39;span&#39;, &#39;place&#39;, p.innerHTML, true));
+      }
+      el.removeChild(p);
+      p = el.children[3];  // location
+      if (p.innerText !== &#39;N/A&#39;) {
+        s = create_el(&#39;span&#39;, &#39;location&#39;, p.innerHTML, true);
+        s.innerHTML = &#39;&lt;i class=&#34;fa fa-map-marker-alt&#34;&gt;&lt;/i&gt; &#39; + s.innerHTML;
+        h.appendChild(s);
+      }
+      el.removeChild(p);
+    })(el.children[2].firstElementChild);
+    // move the rest of content in a block into the last div of the details div
+    s = el.children[2];
+    while (j = s.nextSibling) {
+      if (j.className === &#39;aside&#39;) { s = j; continue; }
+      el.children[2].lastElementChild.append(j);
+    }
+  }
+})();
+&lt;/script&gt;
+
+
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
