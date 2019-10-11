@@ -43,7 +43,7 @@ social:
   link: https://www.linkedin.com/in/muhsinciftci
 - icon: cv
   icon_pack: ai
-  link: /cv/cv
+  link: https://github.com/muhsinciftci/muhsinciftci.netlify.com/tree/master/public/files/cv.html
 superuser: true
 user_groups:
 - Researchers
