@@ -43,7 +43,7 @@ social:
   link: https://www.linkedin.com/in/muhsinciftci
 - icon: cv
   icon_pack: ai
-  link: /cv/cv.pdf
+  link: cv/cv.pdf
 superuser: true
 user_groups:
 - Researchers
