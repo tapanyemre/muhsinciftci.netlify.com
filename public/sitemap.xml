@@ -183,27 +183,12 @@
   </url>
   
   <url>
-    <loc>/cv/cv/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/files/cv/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/cv/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
