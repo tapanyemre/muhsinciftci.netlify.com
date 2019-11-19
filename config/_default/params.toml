@@ -120,7 +120,7 @@ reading_time = true
 # Display comment count (if commenting enabled in config.toml)? (true/false)
 comment_count = true
 
-read_more = true
+read_more = false
 
 # Display next/previous section pager? (true/false)
 section_pager = true
@@ -145,9 +145,9 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = 10
+  publication_view = 10
+  talk_view = 10
 
 # Search.
 [search]

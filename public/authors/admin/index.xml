@@ -6,10 +6,19 @@
     <description>Recent content on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behavioral Dynamics in Turkish Housing Market: The Role of Inflation.</title>
+      <link>/publication/thesis/2019-07-thesis/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis/2019-07-thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discussion Platforms and Blogs</title>
@@ -67,15 +76,6 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Behavioral Dynamics in Turkish Housing Market: The Role of Inflation.</title>
-      <link>/publication/thesis/2019-07-thesis/</link>
-      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/thesis/2019-07-thesis/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -199,7 +199,7 @@ plot(p1, p2, layout = (1,2))
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie in the application of econometrics to finance and macroeconomics. I am also interested in analyzing large data in ways that affect the analysis and understanding in a better way.&lt;/p&gt;
