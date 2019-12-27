@@ -35,17 +35,39 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/7/</loc>
-    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo-jupyter/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-12-hugo-jupyter/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/7/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -95,12 +117,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -113,11 +129,6 @@
   
   <url>
     <loc>/post/2018-09-softwares/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
   </url>
   

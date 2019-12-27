@@ -6,10 +6,22 @@
     <description>Recent content on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publishing Jupyter Notebooks with Hugo</title>
+      <link>/post/2019-12-hugo-jupyter/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-12-hugo-jupyter/</guid>
+      <description>&lt;p&gt;The Jupyter notebooks and Hugo websites by themselves are perfect but when it comes to publishing Jupyter Notebooks with Hugo we face some problems, since Hugo directly works with markdown files. The easiest way to handle this problem is first to create a Gist on github. Then, we embed the Gist code to the Markdown file. Then resulting output is pretty much the same as the original Jupyter Notebook. Otherwise we have to manually work on the &lt;code&gt;.md&lt;/code&gt; file and this can be quite exhausting!&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/muhsinciftci/beac12e51a4f7e9a5dc8ac1f730353b5.js&#34;&gt;style=&#34;border:none;&#34;&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>Behavioral Dynamics in Turkish Housing Market: The Role of Inflation.</title>
@@ -199,7 +211,7 @@ plot(p1, p2, layout = (1,2))
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie in the application of econometrics to finance and macroeconomics. I am also interested in analyzing large data in ways that affect the analysis and understanding in a better way.&lt;/p&gt;

@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo, Jupyter</title>
+      <link>/tags/hugo-jupyter/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hugo-jupyter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blogs, Discussion</title>

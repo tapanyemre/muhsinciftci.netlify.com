@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing on Muhsin Ciftci</title>
+    <link>/tags/cloud-computing/</link>
+    <description>Recent content in Cloud Computing on Muhsin Ciftci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud Based Computation</title>
+      <link>/post/_2019-12-cloud-computing/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/_2019-12-cloud-computing/</guid>
+      <description>&lt;p&gt;Today I want to share my first experience of cloud based computation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
