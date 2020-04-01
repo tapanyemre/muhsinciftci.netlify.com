@@ -1,9 +1,9 @@
 {
-    "path" : "~/Dropbox/muhsinciftci.netlify.com/content/post",
-    "sortOrder" : [
+    "path": "~/Dropbox/muhsinciftci.netlify.com/themes/hugo-academic/assets/css",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
