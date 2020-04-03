@@ -1,0 +1,8 @@
+"0","knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE)"
+"2","Warning message:
+"
+"2","In bookdown:::check_special_chars(files) :"
+"2","
+ "
+"2"," The filename ""content/post/2020-03-Coronav'rus.Rmd"" contains special characters. You may rename it to, e.g., ""content/post/2020-03-Coronav-rus.Rmd"".
+"

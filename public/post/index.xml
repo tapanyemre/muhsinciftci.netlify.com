@@ -6,20 +6,47 @@
     <description>Recent content in Posts on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Some Facts on Coronavirus</title>
+      <link>/post/2020-03-coronavirus/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-03-coronavirus/</guid>
+      <description>
+
+
+&lt;p&gt;This post aims to give some basic facts on coronavirus epidemic which took place in the last couple of months and spreaded around all the world. The main objective is to focus on the economic consequences.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse)
+library(lubridate)
+theme_set(theme_light())
+graphics.off()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;dat &amp;lt;- tibble(Date = today() + days(0:99),
+              Vals = rnorm(100))
+
+ggplot(dat, aes(Date, Vals))+
+  geom_line(col = &amp;quot;black&amp;quot;)+
+  geom_hline(yintercept = 0, col = &amp;quot;red&amp;quot;, linetype = &amp;quot;dashed&amp;quot;)+
+  geom_hline(yintercept = 1, col = &amp;quot;blue&amp;quot;, linetype = &amp;quot;dashed&amp;quot;)+
+  geom_hline(yintercept = -1, col = &amp;quot;black&amp;quot;, linetype = &amp;quot;dashed&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-03-Coronavirus_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publishing Jupyter Notebooks with Hugo</title>
       <link>/post/2019-12-hugo-jupyter/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019-12-hugo-jupyter/</guid>
-      <description>&lt;p&gt;The Jupyter notebooks and Hugo websites by themselves are perfect but when it comes to publishing Jupyter Notebooks with Hugo we face some problems, since Hugo directly works with markdown files. The easiest way to handle this problem is first to create a Gist on github. Then, we embed the Gist code to the Markdown file. Then resulting output is pretty much the same as the original Jupyter Notebook. Otherwise we have to manually work on the &lt;code&gt;.md&lt;/code&gt; file and this can be quite exhausting!&lt;/p&gt;
+      <description>&lt;p&gt;The Jupyter notebooks and Hugo websites by themselves are perfect but when it comes to publishing Jupyter Notebooks with Hugo we face some problems, since Hugo directly works with markdown files. The easiest way to handle this problem is first to create a Gist on github. Then, we embed the Gist code to the Markdown file. Then resulting output is pretty much the same as the original Jupyter Notebook. Otherwise we have to manually work on the .md file and this can be quite exhausting!&lt;/p&gt;
 
-&lt;script src=&#34;https://gist.github.com/muhsinciftci/beac12e51a4f7e9a5dc8ac1f730353b5.js&#34;&gt;style=&#34;border:none;&#34;&lt;/script&gt;
+&lt;script src=&#34;https://gist.github.com/muhsinciftci/beac12e51a4f7e9a5dc8ac1f730353b5.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     

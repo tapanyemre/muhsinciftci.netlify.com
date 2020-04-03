@@ -6,22 +6,24 @@
     <description>Recent content in Source Themes on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Nonlinear Dynamics in Exchange Rate Pass Through and Inflation Persistence The Case of Turkish Economy</title>
-      <link>/publication/journal-article/2017-12-04-erpt/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <title>An example preprint / working paper</title>
+      <link>/post/2020-04-02-tidyverse/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/2017-12-04-erpt/</guid>
+      <guid>/post/2020-04-02-tidyverse/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;code&gt;PDF&lt;/code&gt; button above to see the article in &lt;em&gt;PDF&lt;/em&gt; format.
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
