@@ -40,6 +40,7 @@ theme_set(theme_light())
 graphics.off()
 ```
 
+
 ```{r}
 dat <- tibble(Date = today() + days(0:99),
               Vals = rnorm(100))
