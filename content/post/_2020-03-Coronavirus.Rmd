@@ -46,7 +46,7 @@ dat <- tibble(Date = today() + days(0:99),
 
 ggplot(dat, aes(Date, Vals))+
   geom_line(col = "black")+
-  geom_hline(yintercept = 0, col = "red", linetype = "dashed")+
+  geom_hline(yintercept = 0, col = "black", linetype = "dashed")+
   geom_hline(yintercept = 1, col = "blue", linetype = "dashed")+
   geom_hline(yintercept = -1, col = "black", linetype = "dashed")
 ```

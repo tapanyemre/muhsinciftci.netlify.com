@@ -34,35 +34,13 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-03-coronavirus/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,8 +51,19 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019-12-hugo-jupyter/</loc>
     <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

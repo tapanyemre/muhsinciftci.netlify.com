@@ -6,37 +6,10 @@
     <description>Recent content in Posts on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Some Facts on Coronavirus</title>
-      <link>/post/2020-03-coronavirus/</link>
-      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-03-coronavirus/</guid>
-      <description>
-
-
-&lt;p&gt;This post aims to give some basic facts on coronavirus epidemic which took place in the last couple of months and spreaded around all the world. The main objective is to focus on the economic consequences.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse)
-library(lubridate)
-theme_set(theme_light())
-graphics.off()&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;dat &amp;lt;- tibble(Date = today() + days(0:99),
-              Vals = rnorm(100))
-
-ggplot(dat, aes(Date, Vals))+
-  geom_line(col = &amp;quot;black&amp;quot;)+
-  geom_hline(yintercept = 0, col = &amp;quot;red&amp;quot;, linetype = &amp;quot;dashed&amp;quot;)+
-  geom_hline(yintercept = 1, col = &amp;quot;blue&amp;quot;, linetype = &amp;quot;dashed&amp;quot;)+
-  geom_hline(yintercept = -1, col = &amp;quot;black&amp;quot;, linetype = &amp;quot;dashed&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-03-Coronavirus_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Publishing Jupyter Notebooks with Hugo</title>
