@@ -25,6 +25,10 @@
 &lt;h1&gt;R Environment&lt;/h1&gt;
 &lt;p&gt;Lets load the regular libraries in R&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(wooldridge)
+library(tidyverse)
+library(patchwork)
+theme_set(theme_light())&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;After that we use the library &lt;code&gt;reticulate&lt;/code&gt; and &lt;code&gt;use_condaenv(&#34;r-reticulate&#34;)&lt;/code&gt;. These two functions let us use R and python together and work on the same data set.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(reticulate)
 use_condaenv(&amp;quot;r-reticulate&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
@@ -44,7 +48,7 @@ p2 &amp;lt;- we%&amp;gt;%
   labs(caption = &amp;quot;Source: Woolridge Data Set&amp;quot;)
 
 p1 + p2&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-4-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;python-environment&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Python Environment&lt;/h1&gt;
@@ -67,7 +71,7 @@ plt.scatter(we_py[&amp;#39;exper&amp;#39;], we_py[&amp;#39;lwage&amp;#39;])
 plt.xlabel(&amp;#39;Experience&amp;#39;)
 plt.ylabel(&amp;#39;Log Wage&amp;#39;)
 plt.show()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;div id=&#34;result&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Result&lt;/h2&gt;
 &lt;p&gt;We do not necessarily have to work on different languages and miss on the great functionality provided by both languages. Fortunately, &lt;code&gt;reticulate&lt;/code&gt; package in R solves the problem. Now we are able to benefit from both python and R for our research.&lt;/p&gt;

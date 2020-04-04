@@ -36,7 +36,7 @@ knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE
 ```
 
 
-```{r setup, include=FALSE}
+```{r}
 library(wooldridge)
 library(tidyverse)
 library(patchwork)

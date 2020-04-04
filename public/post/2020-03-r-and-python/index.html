@@ -560,6 +560,10 @@
 <h1>R Environment</h1>
 <p>Lets load the regular libraries in R</p>
 <pre class="r"><code>knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE)</code></pre>
+<pre class="r"><code>library(wooldridge)
+library(tidyverse)
+library(patchwork)
+theme_set(theme_light())</code></pre>
 <p>After that we use the library <code>reticulate</code> and <code>use_condaenv("r-reticulate")</code>. These two functions let us use R and python together and work on the same data set.</p>
 <pre class="r"><code>library(reticulate)
 use_condaenv(&quot;r-reticulate&quot;)</code></pre>
@@ -579,7 +583,7 @@ p2 &lt;- we%&gt;%
   labs(caption = &quot;Source: Woolridge Data Set&quot;)
 
 p1 + p2</code></pre>
-<p><img src="/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<p><img src="/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
 </div>
 <div id="python-environment" class="section level1">
 <h1>Python Environment</h1>
@@ -602,7 +606,7 @@ plt.scatter(we_py[&#39;exper&#39;], we_py[&#39;lwage&#39;])
 plt.xlabel(&#39;Experience&#39;)
 plt.ylabel(&#39;Log Wage&#39;)
 plt.show()</code></pre>
-<p><img src="/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
+<p><img src="/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
 <div id="result" class="section level2">
 <h2>Result</h2>
 <p>We do not necessarily have to work on different languages and miss on the great functionality provided by both languages. Fortunately, <code>reticulate</code> package in R solves the problem. Now we are able to benefit from both python and R for our research.</p>
