@@ -404,7 +404,6 @@
 
 
 
-
   
 
 
@@ -414,25 +413,10 @@
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="media-body">
+<div class="card-simple" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/2017-09-gibbs/" itemprop="url">A Basic Gibbs Sampler</a>
-    </h3>
-
+  
     
-    <div class="article-style" itemprop="articleBody">
-      Gibbs Sampler, which is a specific case of MH algorithm, allows us to come up with values of ($\beta$, $\Sigma$) from joint …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
 
 
 
@@ -488,16 +472,24 @@
 
 </div>
 
-      
-    </div>
+  
 
-    
+  
+  
+  
 
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="/post/2017-09-gibbs/" itemprop="url">A Basic Gibbs Sampler</a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody">
+    Gibbs Sampler, which is a specific case of MH algorithm, allows us to come up with values of ($\beta$, $\Sigma$) from joint distributions. Assuming that we have starting values for $\beta$ and $\Sigma$, and call them $\beta^0$ and $\Sigma^0$. With those we will sample from the density of one element of parameter vector, conditional on the value of the other element sampled in the previous iteration. Thus the sampler will follow a recursive procedure.
   </div>
-  <div class="ml-3">
-    
-    
-  </div>
+  
+
+  
+
 </div>
 
     
