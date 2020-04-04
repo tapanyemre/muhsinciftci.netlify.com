@@ -1,8 +1,0 @@
-"0","dat <- tibble(Date = today() + days(0:99),"
-"0","              Vals = rnorm(100))"
-"0",""
-"0","ggplot(dat, aes(Date, Vals))+"
-"0","  geom_line(col = ""black"")+"
-"0","  geom_hline(yintercept = 0, col = ""red"", linetype = ""dashed"")+"
-"0","  geom_hline(yintercept = 1, col = ""blue"", linetype = ""dashed"")+"
-"0","  geom_hline(yintercept = -1, col = ""black"", linetype = ""dashed"")"

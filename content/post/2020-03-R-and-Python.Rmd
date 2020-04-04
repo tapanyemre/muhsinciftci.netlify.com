@@ -1,0 +1,108 @@
+---
+title: 'Bringing Python and R Together'
+subtitle: 
+summary:
+authors:
+- admin
+tags:
+- 
+categories: []
+date: "2020-03-07T00:00:00Z"
+featured:
+draft: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+header:
+  caption: ''
+  image: ''
+  
+image:
+  placement: 2
+  caption:
+  focal_point: Top
+  preview_only: false
+---
+
+Two most influential programming languages for machine learning, data science and visualization are Python and R. And there has been a tough competition between the two. Both are great and has their own superiority over each other. However, thanks to the R `reticulate` package it is now possible to work on both languages at the same time. As a text editor, RStudio is a well-suited environment to work on both. In this post I want to share shortly how to do so.  
+
+# R Environment
+Lets load the regular libraries in R
+
+```{r}
+knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE)
+```
+
+
+```{r setup, include=FALSE}
+library(wooldridge)
+library(tidyverse)
+library(patchwork)
+theme_set(theme_light())
+```
+
+After that we use the library `reticulate` and `use_condaenv("r-reticulate")`. These two functions let us use R and python together and work on the same data set. 
+
+```{r}
+library(reticulate)
+use_condaenv("r-reticulate")
+```
+
+For the first round, we load the `woolridge` data set. This data set are mostly used for labor economics. Here we look at the relationship between education, wages and experience. 
+
+```{r}
+we <- wooldridge::wage1
+
+p1 <- we%>%
+  ggplot()+
+  geom_point(aes(educ, lwage))+
+  geom_smooth(aes(educ, lwage))+
+  labs(caption = "Source: Woolridge Data Set")
+
+p2 <- we%>%
+  ggplot()+
+  geom_point(aes(exper, lwage))+
+  geom_smooth(aes(exper, lwage))+
+  labs(caption = "Source: Woolridge Data Set")
+
+p1 + p2
+```
+
+# Python Environment
+First we load python libraries, and their styles.
+```{python}
+import numpy as np
+import matplotlib.pyplot as plt
+plt.style.use('seaborn')
+```
+
+
+> An important point to mention is that when we use the data in python that we already used in R we simply call it by `r.dataset` . In the opposite case (when we use data in R that we already prepared in python), we use the option `py$dataset` . This two functions make the life much easier than we think. 
+
+
+```{python}
+we_py = r.we
+
+plt.subplot(2,1,1)
+plt.scatter(we_py['educ'], we_py['lwage'])
+plt.xlabel('Education')
+plt.ylabel('Log Wage')
+
+plt.subplot(2,1,2)
+plt.scatter(we_py['exper'], we_py['lwage'])
+plt.xlabel('Experience')
+plt.ylabel('Log Wage')
+plt.show()
+```
+
+## Result
+We do not necessarily have to work on different languages and miss on the great functionality provided by both languages. Fortunately, `reticulate` package in R solves the problem. Now we are able to benefit from both python and R for our research. 
+
+
+
+
+
+
+

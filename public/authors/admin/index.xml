@@ -6,10 +6,75 @@
     <description>Recent content on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bringing Python and R Together</title>
+      <link>/post/2020-03-r-and-python/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-03-r-and-python/</guid>
+      <description>
+
+
+&lt;p&gt;Two most influential programming languages for machine learning, data science and visualization are Python and R. And there has been a tough competition between the two. Both are great and has their own superiority over each other. However, thanks to the R &lt;code&gt;reticulate&lt;/code&gt; package it is now possible to work on both languages at the same time. As a text editor, RStudio is a well-suited environment to work on both. In this post I want to share shortly how to do so.&lt;/p&gt;
+&lt;div id=&#34;r-environment&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Environment&lt;/h1&gt;
+&lt;p&gt;Lets load the regular libraries in R&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;After that we use the library &lt;code&gt;reticulate&lt;/code&gt; and &lt;code&gt;use_condaenv(&#34;r-reticulate&#34;)&lt;/code&gt;. These two functions let us use R and python together and work on the same data set.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(reticulate)
+use_condaenv(&amp;quot;r-reticulate&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For the first round, we load the &lt;code&gt;woolridge&lt;/code&gt; data set. This data set are mostly used for labor economics. Here we look at the relationship between education, wages and experience.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;we &amp;lt;- wooldridge::wage1
+
+p1 &amp;lt;- we%&amp;gt;%
+  ggplot()+
+  geom_point(aes(educ, lwage))+
+  geom_smooth(aes(educ, lwage))+
+  labs(caption = &amp;quot;Source: Woolridge Data Set&amp;quot;)
+
+p2 &amp;lt;- we%&amp;gt;%
+  ggplot()+
+  geom_point(aes(exper, lwage))+
+  geom_smooth(aes(exper, lwage))+
+  labs(caption = &amp;quot;Source: Woolridge Data Set&amp;quot;)
+
+p1 + p2&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;python-environment&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Python Environment&lt;/h1&gt;
+&lt;p&gt;First we load python libraries, and their styles.&lt;/p&gt;
+&lt;pre class=&#34;python&#34;&gt;&lt;code&gt;import numpy as np
+import matplotlib.pyplot as plt
+plt.style.use(&amp;#39;seaborn&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An important point to mention is that when we use the data in python that we already used in R we simply call it by &lt;code&gt;r.dataset&lt;/code&gt; . In the opposite case (when we use data in R that we already prepared in python), we use the option &lt;code&gt;py$dataset&lt;/code&gt; . This two functions make the life much easier than we think.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;python&#34;&gt;&lt;code&gt;we_py = r.we
+
+plt.subplot(2,1,1)
+plt.scatter(we_py[&amp;#39;educ&amp;#39;], we_py[&amp;#39;lwage&amp;#39;])
+plt.xlabel(&amp;#39;Education&amp;#39;)
+plt.ylabel(&amp;#39;Log Wage&amp;#39;)
+
+plt.subplot(2,1,2)
+plt.scatter(we_py[&amp;#39;exper&amp;#39;], we_py[&amp;#39;lwage&amp;#39;])
+plt.xlabel(&amp;#39;Experience&amp;#39;)
+plt.ylabel(&amp;#39;Log Wage&amp;#39;)
+plt.show()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-03-R-and-Python_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;result&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Result&lt;/h2&gt;
+&lt;p&gt;We do not necessarily have to work on different languages and miss on the great functionality provided by both languages. Fortunately, &lt;code&gt;reticulate&lt;/code&gt; package in R solves the problem. Now we are able to benefit from both python and R for our research.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Publishing Jupyter Notebooks with Hugo</title>
@@ -135,7 +200,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie in the application of econometrics to finance and macroeconomics. I am also interested in analyzing large data in ways that affect the analysis and understanding in a better way.&lt;/p&gt;
