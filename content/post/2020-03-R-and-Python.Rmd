@@ -26,7 +26,8 @@ image:
   preview_only: false
 ---
 
-Two most influential programming languages for machine learning, data science and visualization are Python and R. And there has been a tough competition between the two. Both are great and has their own superiority over each other. However, thanks to the R `reticulate` package it is now possible to work on both languages at the same time. As a text editor, RStudio is a well-suited environment to work on both. In this post I want to share shortly how to do so.  
+Two most influential programming languages for machine learning, data science and visualization are Python and R. And there has been a tough competition between the two. Both are great and has their own superiority over each other. However, thanks to the R reticulate package it is now possible to work on both languages at the same time. As a text editor, RStudio is a well-suited environment to work on both. In this post I want to share shortly how to do so.
+
 
 # R Environment
 Lets load the regular libraries in R
@@ -40,6 +41,8 @@ knitr::opts_chunk$set(message = FALSE, warning=FALSE, echo = TRUE, cache = FALSE
 library(wooldridge)
 library(tidyverse)
 library(patchwork)
+library(htmltools)
+library(bsplus)
 theme_set(theme_light())
 ```
 
@@ -101,7 +104,7 @@ plt.show()
 We do not necessarily have to work on different languages and miss on the great functionality provided by both languages. Fortunately, `reticulate` package in R solves the problem. Now we are able to benefit from both python and R for our research. 
 
 
-
+[//]: <> (Panel Types are default, primary, success, info, warning, danger)
 
 
 

@@ -555,7 +555,7 @@
       
 
 
-<p>Two most influential programming languages for machine learning, data science and visualization are Python and R. And there has been a tough competition between the two. Both are great and has their own superiority over each other. However, thanks to the R <code>reticulate</code> package it is now possible to work on both languages at the same time. As a text editor, RStudio is a well-suited environment to work on both. In this post I want to share shortly how to do so.</p>
+<p>Two most influential programming languages for machine learning, data science and visualization are Python and R. And there has been a tough competition between the two. Both are great and has their own superiority over each other. However, thanks to the R reticulate package it is now possible to work on both languages at the same time. As a text editor, RStudio is a well-suited environment to work on both. In this post I want to share shortly how to do so.</p>
 <div id="r-environment" class="section level1">
 <h1>R Environment</h1>
 <p>Lets load the regular libraries in R</p>
@@ -563,6 +563,8 @@
 <pre class="r"><code>library(wooldridge)
 library(tidyverse)
 library(patchwork)
+library(htmltools)
+library(bsplus)
 theme_set(theme_light())</code></pre>
 <p>After that we use the library <code>reticulate</code> and <code>use_condaenv("r-reticulate")</code>. These two functions let us use R and python together and work on the same data set.</p>
 <pre class="r"><code>library(reticulate)
