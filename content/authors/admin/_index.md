@@ -7,7 +7,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Goethe University Frankfurt
-    year: 2019 - 
+    year: 2019 - Present
   - course: Master of Science in Economics
     institution: Middle East Technical University
     year: 2019
