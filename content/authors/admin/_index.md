@@ -32,9 +32,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ciftciphd
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=tKNlSdIAAAAJ&hl=en
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=tKNlSdIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/muhsinciftci
@@ -43,7 +43,7 @@ social:
   link: https://www.linkedin.com/in/muhsinciftci
 - icon: cv
   icon_pack: ai
-  link: cv/cv.pdf
+  link: /files/cv
 superuser: true
 user_groups:
 - Researchers

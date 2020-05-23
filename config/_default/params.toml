@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "rose"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -11,7 +11,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Muhsin Ciftci"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -21,7 +21,7 @@ twitter = "ciftciphd"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-# logo = ""
+#logo = "static/img/logo"
 
 # diagram for creating shapes
 diagram = true
@@ -166,4 +166,4 @@ sharing = true
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = true

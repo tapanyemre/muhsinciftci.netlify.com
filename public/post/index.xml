@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Muhsin Ciftci</title>
+    <title>Recent Posts on Muhsin Ciftci</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Muhsin Ciftci</description>
+    <description>Recent content in Recent Posts on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Some R Packages</title>
+      <link>/post/2020-05-next/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-05-next/</guid>
+      <description>
+
+
+&lt;p&gt;This is for the next post in RMD.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bringing Python and R Together</title>

@@ -6,64 +6,73 @@
     <description>Recent content in Files on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/files/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Links</title>
-      <link>/files/_links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/files/_links/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/links/Blogs&#34;&gt;Discussion Platforms and Blogs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/links/Books&#34;&gt;Recommended Books&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Resume</title>
-      <link>/files/_cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/files/cv/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/files/_cv/</guid>
+      <guid>/files/cv/</guid>
       <description>
 
 &lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ph.D. Candidate in Economics, Goethe University Frankfurt, &lt;code&gt;2019 -&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;M.Sc. in Economics, Middle East Technical University, &lt;code&gt;2016-2018&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;B.A. in Economics, Bogazici University, &lt;code&gt;2010-2015&lt;/code&gt;
-
+&lt;li&gt;Ph.D. Candidate in Economics, Goethe University Frankfurt, &lt;em&gt;2019 - Present&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;M.Sc. in Economics, Middle East Technical University, &lt;em&gt;2016-2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;B.A. in Economics, Bogazici University, &lt;em&gt;2010-2015&lt;/em&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;employment&#34;&gt;Employment&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Researcher at Central Bank of the Republic of Turkey, &lt;code&gt;2016-Present&lt;/code&gt;
+&lt;li&gt;Researcher at Central Bank of the Republic of Turkey, &lt;em&gt;2016-2019&lt;/em&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Research &amp;amp; Monetary Policy Department
+
+&lt;ul&gt;
+&lt;li&gt;Short Term Inflation Forecasting&lt;/li&gt;
+&lt;li&gt;International Economic Growth
 &lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;fields-of-interest&#34;&gt;Fields of Interest&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Primary
+
+&lt;ul&gt;
 &lt;li&gt;Financial Economics, Applied Econometrics&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Secondary
+
+&lt;ul&gt;
 &lt;li&gt;Macroecnomics, Data Science&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Nonlinear Dynamics in Exchange Rate Pass Through and Inflation Persistence: The Case of Turkish Economy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;grants-awards&#34;&gt;Grants &amp;amp; Awards&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Graduate School Scholarship/Fellowship
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Ph.D. Fellowship&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;personal&#34;&gt;Personal&lt;/h2&gt;
@@ -76,16 +85,34 @@
 &lt;h2 id=&#34;computer-skills&#34;&gt;Computer Skills&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Julia, R, Matlab/Dynare, Stata, Eviews, Gretl, $\LaTeX$ and some Python&lt;/li&gt;
+&lt;li&gt;Julia, Python, R, Matlab/Dynare, Stata, Eviews, Gretl, $\LaTeX$&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Professional Photography, Classical Music&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click &lt;a href=&#34;/cv/cv.pdf&#34;&gt;HERE&lt;/a&gt; to download &lt;code&gt;PDF&lt;/code&gt; version of my resume.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/files/_links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/files/_links/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/links/Blogs&#34;&gt;Discussion Platforms and Blogs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/links/Books&#34;&gt;Recommended Books&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -1,7 +1,7 @@
 ---
 header:
-  caption: ""
+  caption: "Recent Posts"
   image: ""
-title: Posts
+title: Recent Posts
 view: 3
 ---
