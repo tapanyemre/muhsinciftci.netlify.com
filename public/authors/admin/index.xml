@@ -6,23 +6,10 @@
     <description>Recent content on Muhsin Ciftci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Some R Packages</title>
-      <link>/post/2020-05-next/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-next/</guid>
-      <description>
-
-
-&lt;p&gt;This is for the next post in RMD.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Bringing Python and R Together</title>
@@ -219,7 +206,7 @@ plt.show()&lt;/code&gt;&lt;/pre&gt;
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie in the application of econometrics to finance and macroeconomics. I am also interested in analyzing large data in ways that affect the analysis and understanding in a better way.&lt;/p&gt;
