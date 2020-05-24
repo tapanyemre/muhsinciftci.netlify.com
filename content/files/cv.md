@@ -2,6 +2,7 @@
 layout: archive
 date: "2020-01-05"
 title: "Resume"
+comment: false
 permalink: /cv/
 author_profile: true
 redirect_from:
