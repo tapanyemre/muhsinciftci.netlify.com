@@ -21,35 +21,12 @@
 
 &lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Degree&lt;/th&gt;
-&lt;th&gt;University&lt;/th&gt;
-&lt;th&gt;Place &amp;amp; Date&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Ph.D. Candidate in Economics&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Expected-year-of&#34;&gt;&lt;a href=&#34;#fn:Expected-year-of&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-&lt;td&gt;Goethe University Frankfurt&lt;/td&gt;
-&lt;td&gt;Frankfurt (Germany), &lt;em&gt;2019 - Present&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;M.Sc. in Economics&lt;/td&gt;
-&lt;td&gt;Middle East Technical University&lt;/td&gt;
-&lt;td&gt;Ankara (Turkey), &lt;em&gt;2016-2018&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;B.A. in Economics&lt;/td&gt;
-&lt;td&gt;Bogazici University&lt;/td&gt;
-&lt;td&gt;Istanbul (Turkey),  &lt;em&gt;2010-2015&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. Candidate in Economics, Goethe University Frankfurt, Frankfurt (Germany), &lt;em&gt;2019 - Present&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;M.Sc. in Economics, Middle East Technical University, Ankara (Turkey), &lt;em&gt;2016-2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;B.A. in Economics, Bogazici University, Istanbul (Turkey),  &lt;em&gt;2010-2015&lt;/em&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;employment&#34;&gt;Employment&lt;/h2&gt;
 
@@ -121,14 +98,6 @@
   &lt;div&gt;
     Click &lt;a href=&#34;/cv/cv.pdf&#34;&gt;HERE&lt;/a&gt; to download &lt;code&gt;PDF&lt;/code&gt; version of my resume.
   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:Expected-year-of&#34;&gt;Expected year of graduation is 2023 &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Expected-year-of&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
 &lt;/div&gt;
 </description>
     </item>
