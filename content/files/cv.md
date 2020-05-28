@@ -10,9 +10,11 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D. Candidate in Economics, Goethe University Frankfurt, _2019 - Present_
-* M.Sc. in Economics, Middle East Technical University, _2016-2018_
-* B.A. in Economics, Bogazici University, _2010-2015_
+Degree | University | Place \& Date |
+| --------   | ------ | ------ |
+Ph.D. Candidate in Economics^[Expected year of graduation is 2023] | Goethe University Frankfurt| Frankfurt (Germany), _2019 - Present_|
+|M.Sc. in Economics| Middle East Technical University| Ankara (Turkey), _2016-2018_|
+|B.A. in Economics| Bogazici University| Istanbul (Turkey),  _2010-2015_|
   
 ## Employment
 * Researcher at Central Bank of the Republic of Turkey, _2016-2019_
